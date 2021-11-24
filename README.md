@@ -41,7 +41,7 @@
 [Docker]: https://www.docker.com/
 [Elixir]: https://elixir-lang.org
 [Git]: https://git-scm.com/
-[github-languages]: https://github-readme-stats.vercel.app/api/top-langs?username=quatauta&show_icons=true&locale=en&layout=compact&hide_border=true&hide_title=true
+[github-languages]: https://github-readme-stats.vercel.app/api/top-langs?username=quatauta&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&hide_title=true
 [github-stats]: https://github-readme-stats.vercel.app/api?username=quatauta&show_icons=true&locale=en&hide_border=true&hide_title=true&disable_animations=true
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=quatauta&locale=en&hide_border=true&hide_title=true
 [GitHub]: https://github.com/
