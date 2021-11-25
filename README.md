@@ -15,11 +15,11 @@
 ## Connect with me
 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40" /> linkedin.com/in/daniel-schoemer][quatauta-linkedin]
-&nbsp; &nbsp;
+
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="40" /> twitter.com/quatauta][quatauta-twitter]
-&nbsp; &nbsp;
+&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" height="40"> gitlab.com/quatauta][quatauta-gitlab]
-&nbsp; &nbsp;
+&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="40"> github.com/quatauta][quatauta-github]
 
 ## Languages and Tools
