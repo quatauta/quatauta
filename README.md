@@ -14,23 +14,28 @@
 
 ## Connect with me
 
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="40" /> twitter.com/quatauta](https://twitter.com/quatauta) &nbsp; &nbsp; 
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40" /> linkedin.com/in/daniel-schoemer](https://linkedin.com/in/daniel-schoemer)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40" /> linkedin.com/in/daniel-schoemer][quatauta-linkedin]
+&nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="40" /> twitter.com/quatauta][quatauta-twitter]
+&nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" height="40"> gitlab.com/quatauta][quatauta-gitlab]
+&nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="40"> github.com/quatauta][quatauta-github]
 
 ## Languages and Tools
 
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40">][Git]
 [<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" height="40">][GitLab]
 [<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="40">][GitHub]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40">][Linux]
 [<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" height="40">][Ruby]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" height="40">][Ruby on Rails]
 [<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" height="40">][Elixir]
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="40">][Bash]
-[<img src="https://api.iconify.design/logos-hugo.svg" height="40">][Hugo]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40">][JavaScript]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40">][Python]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40">][Linux]
 [<img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" height="40">][Docker]
+[<img src="https://api.iconify.design/logos-hugo.svg" height="40">][Hugo]
 [<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40">][Grafana]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40">][PostgreSQL]
 
@@ -54,5 +59,9 @@
 [PostgreSQL]: https://www.postgresql.org/
 [Python]: https://www.python.org/
 [Python]: https://www.python.org/
+[quatauta-github]: https://github.com/quatauta
+[quatauta-gitlab]: https://gitlab.com/quatauta
+[quatauta-twitter]: https://twitter.com/quatauta
+[quatauta-linkedin]: https://linkedin.com/in/daniel-schoemer
 [Ruby on Rails]: https://rubyonrails.org/
 [Ruby]: https://www.ruby-lang.org/
