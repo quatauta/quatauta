@@ -39,7 +39,7 @@
 [<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40">][Grafana]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40">][PostgreSQL]
 
-![github-languages] ![github-stats] ![github-streak]
+![github-languages] ![github-stats] ![github-streak] ![gitlab-wrap]
 
 [Ansible]: https://www.ansible.com/
 [Bash]: https://www.gnu.org/software/bash/
@@ -49,6 +49,7 @@
 [github-languages]: https://github-readme-stats.vercel.app/api/top-langs?username=quatauta&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&hide_title=true
 [github-stats]: https://github-readme-stats.vercel.app/api?username=quatauta&count_private=true&show_icons=true&locale=en&hide_border=true&hide_title=true&disable_animations=true
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=quatauta&locale=en&hide_border=true&hide_title=true
+[gitlab-wrap]: https://gitlabwrap.fly.dev/card/quatauta
 [GitHub]: https://github.com/
 [GitLab]: https://gitlab.com/
 [Grafana]: https://grafana.com/
