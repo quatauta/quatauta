@@ -21,7 +21,7 @@
 
 ## 💻 Technologies & Tools
 
-[![Git][badge-git]][git]
+[![Git][badge-git]][git]{: .no-attachment-icon}
 [![GitLab][badge-gitlab]][gitlab]
 [![GitHub][badge-github]][github]
 [![Vim][badge-vim]][vim]
