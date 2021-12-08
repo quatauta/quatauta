@@ -21,6 +21,12 @@
 
 ## 💻 Technologies & Tools
 
+<style>
+.leading-8 { line-heigt: 2rem; }
+</style>
+
+<div class=leading-8">
+
 [![Git][badge-git]][git]
 [![GitLab][badge-gitlab]][gitlab]
 [![GitHub][badge-github]][github]
@@ -45,6 +51,8 @@
 [![Grafana][badge-grafana]][grafana]
 [![PostgreSQL][badge-postgresql]][postgresql]
 [![GnuPG][badge-gnupg]][gnupg]
+
+</div>
 
 [badge-ansible]: https://img.shields.io/static/v1?style=for-the-badge&color=1a1918&logoColor=ffffff&label=&logo=ansible&message=ansible
 [badge-arch-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=1793d1&logoColor=ffffff&label=&logo=Arch+Linux&message=Arch+Linux
