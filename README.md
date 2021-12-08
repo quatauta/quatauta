@@ -15,36 +15,36 @@
 ## 🤝 Connect with me
 
 [![LinkedIn Daniel Schömer][badge-quatauta-linkedin]][quatauta-linkedin]
-      [![Twitter @quatauta][badge-quatauta-twitter]][quatauta-twitter]
-       [![GitLab @quatauta][badge-quatauta-gitlab]][quatauta-gitlab]
-       [![GitHub @quatauta][badge-quatauta-github]][quatauta-github]
+[![Twitter @quatauta][badge-quatauta-twitter]][quatauta-twitter]
+[![GitLab @quatauta][badge-quatauta-gitlab]][quatauta-gitlab]
+[![GitHub @quatauta][badge-quatauta-github]][quatauta-github]
 
 ## 💻 Technologies & Tools
 
-![Git][badge-git]
-![GitLab][badge-gitlab]
-![GitHub][badge-github]
-![Vim][badge-vim]
-![Visual Studio Code][badge-vscode]
-![IntelliJ IDEA][badge-intellij-idea]
+[![Git][badge-git]][git]
+[![GitLab][badge-gitlab]][gitlab]
+[![GitHub][badge-github]][github]
+[![Vim][badge-vim]][vim]
+[![Visual Studio Code][badge-vscode]][vscode]
+[![IntelliJ IDEA][badge-intellij-idea]][intellij-idea]
 
-![Ruby][badge-ruby]
-![Ruby on Rails][badge-rails]
-![Elixir][badge-elixir]
-![GNU Bash][badge-bash]
-![Java][badge-java]
-![JavaScript][badge-javascript]
-![Python][badge-python]
+[![Ruby][badge-ruby]][ruby]
+[![Ruby on Rails][badge-rails]][rails]
+[![Elixir][badge-elixir]][elixir]
+[![GNU Bash][badge-bash]][bash]
+[![Java][badge-java]][java]
+[![JavaScript][badge-javascript]][javascript]
+[![Python][badge-python]][python]
 
-![Linux][badge-linux]
-![Ubuntu][badge-ubuntu]
-![Arch Linux][badge-arch-linux]
-![Ansible][badge-ansible]
-![Docker][badge-docker]
-![Hugo][badge-hugo]
-![Grafana][badge-grafana]
-![PostgreSQL][badge-postgresql]
-![GnuPG][badge-gnupg]
+[![Linux][badge-linux]][linux]
+[![Arch Linux][badge-arch-linux]][arch-linux]
+[![Ubuntu][badge-ubuntu]][ubuntu]
+[![Ansible][badge-ansible]][ansible]
+[![Docker][badge-docker]][docker]
+[![Hugo][badge-hugo]][hugo]
+[![Grafana][badge-grafana]][grafana]
+[![PostgreSQL][badge-postgresql]][postgresql]
+[![GnuPG][badge-gnupg]][gnupg]
 
 [badge-ansible]: https://img.shields.io/static/v1?style=for-the-badge&color=1a1918&logoColor=ffffff&label=&logo=ansible&message=ansible
 [badge-arch-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=1793d1&logoColor=ffffff&label=&logo=Arch+Linux&message=Arch+Linux
@@ -78,33 +78,33 @@
 [![github-streak]][quatauta-github]
 [<img src="https://gitlabwrap.fly.dev/card/quatauta" height="275">][quatauta-gitlab]
 
-[Ansible]: https://www.ansible.com/
-[Arch Linux]: https://archlinux.org/
-[Bash]: https://www.gnu.org/software/bash/
-[Docker]: https://www.docker.com/
-[Elixir]: https://elixir-lang.org
-[GitHub]: https://github.com/
-[GitLab]: https://gitlab.com/
-[Git]: https://git-scm.com/
-[Grafana]: https://grafana.com/
-[Hugo]: https://gohugo.io/
-[IntelliJ IDEA]: https://www.jetbrains.com/idea/
-[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
-[Java]: https://dev.java/
-[Java]: https://docs.oracle.com/javase/8/
-[Linux]: https://www.linux.org/
-[PostgreSQL]: https://www.postgresql.org/
-[Python]: https://www.python.org/
-[Ruby on Rails]: https://rubyonrails.org/
-[Ruby]: https://www.ruby-lang.org/
-[Ubuntu]: https://ubuntu.com/
-[Vim]: https://www.vim.org/
-[Visual Studio Code]: https://code.visualstudio.com/
+[ansible]: https://www.ansible.com/
+[arch-linux]: https://archlinux.org/
+[bash]: https://www.gnu.org/software/bash/
+[docker]: https://www.docker.com/
+[elixir]: https://elixir-lang.org
+[git]: https://git-scm.com/
 [github-languages]: https://github-readme-stats.vercel.app/api/top-langs?username=quatauta&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&hide_title=true
 [github-stats]: https://github-readme-stats.vercel.app/api?username=quatauta&count_private=true&show_icons=true&locale=en&hide_border=true&hide_title=true&disable_animations=true
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=quatauta&locale=en&hide_border=true&hide_title=true
+[github]: https://github.com/
+[gitlab]: https://gitlab.com/
 [gnupg]: https://gnupg.org/
+[grafana]: https://grafana.com/
+[hugo]: https://gohugo.io/
+[intellij-idea]: https://www.jetbrains.com/idea/
+[java]: https://dev.java/
+[java]: https://docs.oracle.com/javase/8/
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
+[linux]: https://www.linux.org/
+[postgresql]: https://www.postgresql.org/
+[python]: https://www.python.org/
 [quatauta-github]: https://github.com/quatauta
 [quatauta-gitlab]: https://gitlab.com/quatauta
 [quatauta-linkedin]: https://linkedin.com/in/daniel-schoemer
 [quatauta-twitter]: https://twitter.com/quatauta
+[rails]: https://rubyonrails.org/
+[ruby]: https://www.ruby-lang.org/
+[ubuntu]: https://ubuntu.com/
+[vim]: https://www.vim.org/
+[vscode]: https://code.visualstudio.com/
