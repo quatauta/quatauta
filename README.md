@@ -19,68 +19,92 @@
 [![GitLab @quatauta][badge-quatauta-gitlab]][quatauta-gitlab]
 [![GitHub @quatauta][badge-quatauta-github]][quatauta-github]
 
-[badge-quatauta-linkedin]: https://img.shields.io/badge/-@daniel--schoemer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff
-[badge-quatauta-twitter]: https://img.shields.io/badge/-@quatauta-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff
-[badge-quatauta-gitlab]: https://img.shields.io/badge/-@quatauta-%23181717?style=for-the-badge&logo=gitlab
-[badge-quatauta-github]: https://img.shields.io/badge/-@quatauta-%23181717?style=for-the-badge&logo=github
-
-
 ## 💻 Technologies & Tools
 
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=11AB00&logo=vim&logoColor=white&label=)
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=0078d7&logo=visual-studio-code&logoColor=white&label=)
-![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=intellij-idea&logoColor=white&label=)
+[![Git][badge-git]][git]
+[![GitLab][badge-gitlab]][gitlab]
+[![GitHub][badge-github]][github]
+[![Vim][badge-vim]][vim]
+[![Visual Studio Code][badge-vscode]][vscode]
+[![IntelliJ IDEA][badge-intellij-idea]][intellij-idea]
 
-![Ruby](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label=)
-![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=CC0000&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
-![Elixir](https://img.shields.io/static/v1?style=for-the-badge&message=Elixir&color=4B275F&logo=Elixir&logoColor=FFFFFF&label=)
-![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+[![Ruby][badge-ruby]][ruby]
+[![Ruby on Rails][badge-rails]][rails]
+[![Elixir][badge-elixir]][elixir]
+[![GNU Bash][badge-bash]][bash]
+[![Java][badge-java]][java]
+[![JavaScript][badge-javascript]][javascript]
+[![Python][badge-python]][python]
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-1A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Hugo](https://img.shields.io/static/v1?style=for-the-badge&message=Hugo&color=FF4088&logo=Hugo&logoColor=FFFFFF&label=)
-![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-![GnuPG](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Privacy+Guard&color=0093DD&logo=GnuPG&logoColor=FFFFFF&label=)
+[![Linux][badge-linux]][linux]
+[![Arch Linux][badge-arch-linux]][arch-linux]
+[![Ubuntu][badge-ubuntu]][ubuntu]
+[![Ansible][badge-ansible]][ansible]
+[![Docker][badge-docker]][docker]
+[![Hugo][badge-hugo]][hugo]
+[![Grafana][badge-grafana]][grafana]
+[![PostgreSQL][badge-postgresql]][postgresql]
+[![GnuPG][badge-gnupg]][gnupg]
 
-[![github-languages]][quatauta-github] [![github-stats]][quatauta-github] [![github-streak]][quatauta-github] [<img src="https://gitlabwrap.fly.dev/card/quatauta" height="275">][quatauta-gitlab]
+[badge-ansible]: https://img.shields.io/static/v1?style=for-the-badge&color=1a1918&logoColor=ffffff&label=&logo=ansible&message=ansible
+[badge-arch-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=1793d1&logoColor=ffffff&label=&logo=Arch+Linux&message=Arch+Linux
+[badge-bash]: https://img.shields.io/static/v1?style=for-the-badge&color=4eaa25&logoColor=ffffff&label=&logo=GNU+Bash&message=GNU+Bash
+[badge-docker]: https://img.shields.io/static/v1?style=for-the-badge&color=0db7ed&logoColor=ffffff&label=&logo=docker&message=docker
+[badge-elixir]: https://img.shields.io/static/v1?style=for-the-badge&color=4b275f&logoColor=ffffff&label=&logo=Elixir&message=Elixir
+[badge-git]: https://img.shields.io/static/v1?style=for-the-badge&color=f05032&logoColor=ffffff&label=&logo=Git&message=Git
+[badge-github]: https://img.shields.io/static/v1?style=for-the-badge&color=181717&logoColor=ffffff&label=&logo=GitHub&message=GitHub
+[badge-gitlab]: https://img.shields.io/static/v1?style=for-the-badge&color=554488&logoColor=fca121&label=&logo=GitLab&message=GitLab
+[badge-gnupg]: https://img.shields.io/static/v1?style=for-the-badge&color=0093dd&logoColor=ffffff&label=&logo=gnuprivacyguard&message=GNU+Privacy+Guard
+[badge-grafana]: https://img.shields.io/static/v1?style=for-the-badge&color=f46800&logoColor=ffffff&label=&logo=Grafana&message=Grafana
+[badge-hugo]: https://img.shields.io/static/v1?style=for-the-badge&color=ff4088&logoColor=ffffff&label=&logo=Hugo&message=Hugo
+[badge-intellij-idea]: https://img.shields.io/static/v1?style=for-the-badge&color=000000&logoColor=ffffff&label=&logo=intellij-idea&message=IntelliJ+IDEA
+[badge-java]: https://img.shields.io/static/v1?style=for-the-badge&color=007396&logoColor=ffffff&label=&logo=Java&message=Java
+[badge-javascript]: https://img.shields.io/static/v1?style=for-the-badge&color=222222&logoColor=f7df1e&label=&logo=JavaScript&message=JavaScript
+[badge-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=fcc624&logoColor=000000&label=&logo=linux&message=Linux
+[badge-postgresql]: https://img.shields.io/static/v1?style=for-the-badge&color=4169e1&logoColor=ffffff&label=&logo=PostgreSQL&message=PostgreSQL
+[badge-python]: https://img.shields.io/static/v1?style=for-the-badge&color=3776ab&logoColor=ffffff&label=&logo=Python&message=Python
+[badge-quatauta-github]: https://img.shields.io/static/v1?style=for-the-badge&color=181717&logoColor=ffffff&label=&logo=github&message=@quatauta
+[badge-quatauta-gitlab]: https://img.shields.io/static/v1?style=for-the-badge&color=554488&logoColor=ffffff&label=&logo=gitlab&message=@quatauta
+[badge-quatauta-linkedin]: https://img.shields.io/static/v1?style=for-the-badge&color=0a66c2&logoColor=ffffff&label=&logo=linkedin&message=@daniel-schoemer
+[badge-quatauta-twitter]: https://img.shields.io/static/v1?style=for-the-badge&color=1da1f2&logoColor=ffffff&label=&logo=twitter&message=@quatauta
+[badge-ruby]: https://img.shields.io/static/v1?style=for-the-badge&color=CC342D&logoColor=FFFFFF&label=&logo=Ruby&message=Ruby
+[badge-rails]: https://img.shields.io/static/v1?style=for-the-badge&color=cc0000&logoColor=ffffff&label=&logo=Ruby+on+Rails&message=Ruby+on+Rails
+[badge-ubuntu]: https://img.shields.io/static/v1?style=for-the-badge&color=e95420&logoColor=ffffff&label=&logo=ubuntu&message=Ubuntu
+[badge-vim]: https://img.shields.io/static/v1?style=for-the-badge&color=11ab00&logoColor=ffffff&label=&logo=vim&message=Vim
+[badge-vscode]: https://img.shields.io/static/v1?style=for-the-badge&color=0078d7&logoColor=ffffff&label=&logo=visual-studio-code&message=Visual+Studio+Code
 
-[Ansible]: https://www.ansible.com/
-[Arch Linux]: https://archlinux.org/
-[Bash]: https://www.gnu.org/software/bash/
-[Docker]: https://www.docker.com/
-[Elixir]: https://elixir-lang.org
-[Git]: https://git-scm.com/
+[![github-languages]][quatauta-github]
+[![github-stats]][quatauta-github]
+[![github-streak]][quatauta-github]
+[<img src="https://gitlabwrap.fly.dev/card/quatauta" height="275">][quatauta-gitlab]
+
+[ansible]: https://www.ansible.com/
+[arch-linux]: https://archlinux.org/
+[bash]: https://www.gnu.org/software/bash/
+[docker]: https://www.docker.com/
+[elixir]: https://elixir-lang.org
+[git]: https://git-scm.com/
 [github-languages]: https://github-readme-stats.vercel.app/api/top-langs?username=quatauta&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&hide_title=true
 [github-stats]: https://github-readme-stats.vercel.app/api?username=quatauta&count_private=true&show_icons=true&locale=en&hide_border=true&hide_title=true&disable_animations=true
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=quatauta&locale=en&hide_border=true&hide_title=true
-[GitHub]: https://github.com/
-[GitLab]: https://gitlab.com/
+[github]: https://github.com/
+[gitlab]: https://gitlab.com/
 [gnupg]: https://gnupg.org/
-[Grafana]: https://grafana.com/
-[Hugo]: https://gohugo.io/
-[IntelliJ IDEA]: https://www.jetbrains.com/idea/
-[Java]: https://dev.java/
-[Java]: https://docs.oracle.com/javase/8/
-[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
-[Linux]: https://www.linux.org/
-[PostgreSQL]: https://www.postgresql.org/
-[Python]: https://www.python.org/
+[grafana]: https://grafana.com/
+[hugo]: https://gohugo.io/
+[intellij-idea]: https://www.jetbrains.com/idea/
+[java]: https://dev.java/
+[java]: https://docs.oracle.com/javase/8/
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
+[linux]: https://www.linux.org/
+[postgresql]: https://www.postgresql.org/
+[python]: https://www.python.org/
 [quatauta-github]: https://github.com/quatauta
 [quatauta-gitlab]: https://gitlab.com/quatauta
 [quatauta-linkedin]: https://linkedin.com/in/daniel-schoemer
 [quatauta-twitter]: https://twitter.com/quatauta
-[Ruby on Rails]: https://rubyonrails.org/
-[Ruby]: https://www.ruby-lang.org/
-[Ubuntu]: https://ubuntu.com/
-[Vim]: https://www.vim.org/
-[Visual Studio Code]: https://code.visualstudio.com/
+[rails]: https://rubyonrails.org/
+[ruby]: https://www.ruby-lang.org/
+[ubuntu]: https://ubuntu.com/
+[vim]: https://www.vim.org/
+[vscode]: https://code.visualstudio.com/
