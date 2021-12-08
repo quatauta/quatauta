@@ -53,7 +53,7 @@
 [badge-elixir]: https://img.shields.io/static/v1?style=for-the-badge&color=4b275f&logoColor=ffffff&logo=Elixir&message=Elixir&label=
 [badge-git]: https://img.shields.io/static/v1?style=for-the-badge&color=f05032&logoColor=ffffff&logo=Git&message=Git&label=
 [badge-github]: https://img.shields.io/static/v1?style=for-the-badge&color=181717&logoColor=ffffff&logo=GitHub&message=GitHub&label=
-[badge-gitlab]: https://img.shields.io/static/v1?style=for-the-badge&color=222222&logoColor=fca121&logo=GitLab&message=GitLab&label=
+[badge-gitlab]: https://img.shields.io/static/v1?style=for-the-badge&color=554488&logoColor=fca121&logo=GitLab&message=GitLab&label=
 [badge-gnupg]: https://img.shields.io/static/v1?style=for-the-badge&color=0093dd&logoColor=ffffff&logo=GnuPG&message=GNU+Privacy+Guard&label=
 [badge-grafana]: https://img.shields.io/static/v1?style=for-the-badge&color=f46800&logoColor=ffffff&logo=Grafana&message=Grafana&label=
 [badge-hugo]: https://img.shields.io/static/v1?style=for-the-badge&color=ff4088&logoColor=ffffff&logo=Hugo&message=Hugo&label=
