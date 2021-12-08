@@ -22,9 +22,11 @@
 ## 💻 Technologies & Tools
 
 <style>
+leading-8 { line-heigt: 2rem; }
 .leading-8 { line-heigt: 2rem; }
 </style>
 
+<leading-8>
 <div class=leading-8">
 
 [![Git][badge-git]][git]
@@ -53,6 +55,7 @@
 [![GnuPG][badge-gnupg]][gnupg]
 
 </div>
+</leading-8>
 
 [badge-ansible]: https://img.shields.io/static/v1?style=for-the-badge&color=1a1918&logoColor=ffffff&label=&logo=ansible&message=ansible
 [badge-arch-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=1793d1&logoColor=ffffff&label=&logo=Arch+Linux&message=Arch+Linux
