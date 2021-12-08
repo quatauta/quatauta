@@ -46,6 +46,11 @@
 [![PostgreSQL][badge-postgresql]][postgresql]
 [![GnuPG][badge-gnupg]][gnupg]
 
+[![github-languages]][quatauta-github]
+[![github-stats]][quatauta-github]
+[![github-streak]][quatauta-github]
+[<img src="https://gitlabwrap.fly.dev/card/quatauta" height="275">][quatauta-gitlab]
+
 [badge-ansible]: https://img.shields.io/static/v1?style=for-the-badge&color=1a1918&logoColor=ffffff&label=&logo=ansible&message=ansible
 [badge-arch-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=1793d1&logoColor=ffffff&label=&logo=Arch+Linux&message=Arch+Linux
 [badge-bash]: https://img.shields.io/static/v1?style=for-the-badge&color=4eaa25&logoColor=ffffff&label=&logo=GNU+Bash&message=GNU+Bash
@@ -72,11 +77,6 @@
 [badge-ubuntu]: https://img.shields.io/static/v1?style=for-the-badge&color=e95420&logoColor=ffffff&label=&logo=ubuntu&message=Ubuntu
 [badge-vim]: https://img.shields.io/static/v1?style=for-the-badge&color=11ab00&logoColor=ffffff&label=&logo=vim&message=Vim
 [badge-vscode]: https://img.shields.io/static/v1?style=for-the-badge&color=0078d7&logoColor=ffffff&label=&logo=visual-studio-code&message=Visual+Studio+Code
-
-[![github-languages]][quatauta-github]
-[![github-stats]][quatauta-github]
-[![github-streak]][quatauta-github]
-[<img src="https://gitlabwrap.fly.dev/card/quatauta" height="275">][quatauta-gitlab]
 
 [ansible]: https://www.ansible.com/
 [arch-linux]: https://archlinux.org/
