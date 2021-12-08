@@ -48,6 +48,11 @@
 [![GnuPG][badge-gnupg]][gnupg]
 [![YubiKey][badge-yubikey]][yubikey]
 
+[![github-languages]][quatauta-github]
+[![github-stats]][quatauta-github]
+[![github-streak]][quatauta-github]
+[<img src="https://gitlabwrap.fly.dev/card/quatauta" height="275">][quatauta-gitlab]
+
 [badge-ansible]: https://img.shields.io/static/v1?style=for-the-badge&color=1a1918&logoColor=ffffff&label=&logo=ansible&message=ansible
 [badge-arch-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=1793d1&logoColor=ffffff&label=&logo=Arch+Linux&message=Arch+Linux
 [badge-bash]: https://img.shields.io/static/v1?style=for-the-badge&color=4eaa25&logoColor=ffffff&label=&logo=GNU+Bash&message=Bash
@@ -69,17 +74,12 @@
 [badge-quatauta-gitlab]: https://img.shields.io/static/v1?style=for-the-badge&color=554488&logoColor=ffffff&label=&logo=gitlab&message=@quatauta
 [badge-quatauta-linkedin]: https://img.shields.io/static/v1?style=for-the-badge&color=0a66c2&logoColor=ffffff&label=&logo=linkedin&message=@daniel-schoemer
 [badge-quatauta-twitter]: https://img.shields.io/static/v1?style=for-the-badge&color=1da1f2&logoColor=ffffff&label=&logo=twitter&message=@quatauta
-[badge-ruby]: https://img.shields.io/static/v1?style=for-the-badge&color=CC342D&logoColor=FFFFFF&label=&logo=Ruby&message=Ruby
 [badge-rails]: https://img.shields.io/static/v1?style=for-the-badge&color=cc0000&logoColor=ffffff&label=&logo=Ruby+on+Rails&message=Ruby+on+Rails
+[badge-ruby]: https://img.shields.io/static/v1?style=for-the-badge&color=CC342D&logoColor=FFFFFF&label=&logo=Ruby&message=Ruby
 [badge-ubuntu]: https://img.shields.io/static/v1?style=for-the-badge&color=e95420&logoColor=ffffff&label=&logo=ubuntu&message=Ubuntu
 [badge-vim]: https://img.shields.io/static/v1?style=for-the-badge&color=11ab00&logoColor=ffffff&label=&logo=vim&message=Vim
 [badge-vscode]: https://img.shields.io/static/v1?style=for-the-badge&color=0078d7&logoColor=ffffff&label=&logo=visual-studio-code&message=Visual+Studio+Code
 [badge-yubikey]: https://img.shields.io/static/v1?style=for-the-badge&color=98c93c&logoColor=ffffff&label=&message=YubiKey&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGFyaWEtbGFiZWw9Ill1YmljbyIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSIxNSUiIGZpbGw9Im5vbmUiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIGZpbGw9Im5vbmUiIHI9IjIzMyIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjQ1Ii8+PHBhdGggZD0iTTI1NiA0MDdIMTg1bDMzLTc3LTgwLTIwMmg2OWw0OSAxMzIgNDYtMTMyaDY4IiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg==
-
-[![github-languages]][quatauta-github]
-[![github-stats]][quatauta-github]
-[![github-streak]][quatauta-github]
-[<img src="https://gitlabwrap.fly.dev/card/quatauta" height="275">][quatauta-gitlab]
 
 [ansible]: https://www.ansible.com/
 [arch-linux]: https://archlinux.org/
