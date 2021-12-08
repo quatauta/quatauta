@@ -21,10 +21,7 @@
 
 ## 💻 Technologies & Tools
 
-<style>
-leading-8 { line-heigt: 2rem; }
-.leading-8 { line-heigt: 2rem; }
-</style>
+<style> .leading-8 { line-heigt: 2rem; } </style>
 
 [![Git][badge-git]][git]
 [![GitLab][badge-gitlab]][gitlab]
