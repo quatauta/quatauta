@@ -41,14 +41,17 @@
 [![Ubuntu][badge-ubuntu]][ubuntu]
 [![Ansible][badge-ansible]][ansible]
 [![Docker][badge-docker]][docker]
+
 [![Hugo][badge-hugo]][hugo]
 [![Grafana][badge-grafana]][grafana]
 [![PostgreSQL][badge-postgresql]][postgresql]
 [![GnuPG][badge-gnupg]][gnupg]
 
+![YubiKey][badge-yubikey]
+
 [badge-ansible]: https://img.shields.io/static/v1?style=for-the-badge&color=1a1918&logoColor=ffffff&label=&logo=ansible&message=ansible
 [badge-arch-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=1793d1&logoColor=ffffff&label=&logo=Arch+Linux&message=Arch+Linux
-[badge-bash]: https://img.shields.io/static/v1?style=for-the-badge&color=4eaa25&logoColor=ffffff&label=&logo=GNU+Bash&message=GNU+Bash
+[badge-bash]: https://img.shields.io/static/v1?style=for-the-badge&color=4eaa25&logoColor=ffffff&label=&logo=GNU+Bash&message=Bash
 [badge-docker]: https://img.shields.io/static/v1?style=for-the-badge&color=0db7ed&logoColor=ffffff&label=&logo=docker&message=docker
 [badge-elixir]: https://img.shields.io/static/v1?style=for-the-badge&color=4b275f&logoColor=ffffff&label=&logo=Elixir&message=Elixir
 [badge-git]: https://img.shields.io/static/v1?style=for-the-badge&color=f05032&logoColor=ffffff&label=&logo=Git&message=Git
@@ -72,6 +75,7 @@
 [badge-ubuntu]: https://img.shields.io/static/v1?style=for-the-badge&color=e95420&logoColor=ffffff&label=&logo=ubuntu&message=Ubuntu
 [badge-vim]: https://img.shields.io/static/v1?style=for-the-badge&color=11ab00&logoColor=ffffff&label=&logo=vim&message=Vim
 [badge-vscode]: https://img.shields.io/static/v1?style=for-the-badge&color=0078d7&logoColor=ffffff&label=&logo=visual-studio-code&message=Visual+Studio+Code
+[badge-yubikey]: https://img.shields.io/static/v1?style=for-the-badge&color=98c93c&logoColor=ffffff&label=&message=YubiKey&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGFyaWEtbGFiZWw9Ill1YmljbyIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSIxNSUiIGZpbGw9Im5vbmUiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIGZpbGw9Im5vbmUiIHI9IjIzMyIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjQ1Ii8+PHBhdGggZD0iTTI1NiA0MDdIMTg1bDMzLTc3LTgwLTIwMmg2OWw0OSAxMzIgNDYtMTMyaDY4IiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg==
 
 [![github-languages]][quatauta-github]
 [![github-stats]][quatauta-github]
