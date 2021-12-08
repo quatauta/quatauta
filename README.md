@@ -61,7 +61,7 @@
 [badge-git]: https://img.shields.io/static/v1?style=for-the-badge&color=f05032&logoColor=ffffff&label=&logo=Git&message=Git
 [badge-github]: https://img.shields.io/static/v1?style=for-the-badge&color=181717&logoColor=ffffff&label=&logo=GitHub&message=GitHub
 [badge-gitlab]: https://img.shields.io/static/v1?style=for-the-badge&color=554488&logoColor=fca121&label=&logo=GitLab&message=GitLab
-[badge-gnupg]: https://img.shields.io/static/v1?style=for-the-badge&color=0093dd&logoColor=ffffff&label=&logo=gnuprivacyguard&message=GNU+Privacy+Guard
+[badge-gnupg]: https://img.shields.io/static/v1?style=for-the-badge&color=0093dd&logoColor=ffffff&label=&logo=gnuprivacyguard&message=GnuPG
 [badge-grafana]: https://img.shields.io/static/v1?style=for-the-badge&color=f46800&logoColor=ffffff&label=&logo=Grafana&message=Grafana
 [badge-hugo]: https://img.shields.io/static/v1?style=for-the-badge&color=ff4088&logoColor=ffffff&label=&logo=Hugo&message=Hugo
 [badge-intellij-idea]: https://img.shields.io/static/v1?style=for-the-badge&color=000000&logoColor=ffffff&label=&logo=intellij-idea&message=IntelliJ+IDEA
