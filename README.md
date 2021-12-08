@@ -64,7 +64,7 @@
 [badge-postgresql]: https://img.shields.io/static/v1?style=for-the-badge&color=4169e1&logoColor=ffffff&logo=PostgreSQL&message=PostgreSQL&label=
 [badge-python]: https://img.shields.io/static/v1?style=for-the-badge&color=3776ab&logoColor=ffffff&logo=Python&message=Python&label=
 [badge-quatauta-github]: https://img.shields.io/static/v1?style=for-the-badge&color=181717&logoColor=ffffff&logo=github&message=@quatauta&label=
-[badge-quatauta-gitlab]: https://img.shields.io/static/v1?style=for-the-badge&color=6b4fbb&logoColor=ffffff&logo=gitlab&message=@quatauta&label=
+[badge-quatauta-gitlab]: https://img.shields.io/static/v1?style=for-the-badge&color=554488&logoColor=ffffff&logo=gitlab&message=@quatauta&label=
 [badge-quatauta-linkedin]: https://img.shields.io/static/v1?style=for-the-badge&color=0a66c2&logoColor=ffffff&logo=linkedin&message=@daniel-schoemer&label=
 [badge-quatauta-twitter]: https://img.shields.io/static/v1?style=for-the-badge&color=1da1f2&logoColor=ffffff&logo=twitter&message=@quatauta&label=
 [badge-ruby]: https://img.shields.io/static/v1?style=for-the-badge&color=CC342D&logoColor=FFFFFF&logo=Ruby&message=Ruby&label=
