@@ -70,7 +70,7 @@
              [badge-python]: https://img.shields.io/static/v1?style=for-the-badge&color=3776ab&logoColor=ffffff&logo=Python&message=Python&label=
       [badge-ruby-on-rails]: https://img.shields.io/static/v1?style=for-the-badge&color=cc0000&logoColor=ffffff&logo=Ruby+on+Rails&message=Ruby+on+Rails&label=
                 [badge-vim]: https://img.shields.io/static/v1?style=for-the-badge&color=11ab00&logoColor=ffffff&logo=vim&message=Vim&label=
-              [badge-vsode]: https://img.shields.io/static/v1?style=for-the-badge&color=0078d7&logoColor=ffffff&logo=visual-studio-code&message=Visual+Studio+Code&label=
+             [badge-vscode]: https://img.shields.io/static/v1?style=for-the-badge&color=0078d7&logoColor=ffffff&logo=visual-studio-code&message=Visual+Studio+Code&label=
 
 [![github-languages]][quatauta-github]
 [![github-stats]][quatauta-github]
