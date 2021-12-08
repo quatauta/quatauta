@@ -46,8 +46,7 @@
 [![Grafana][badge-grafana]][grafana]
 [![PostgreSQL][badge-postgresql]][postgresql]
 [![GnuPG][badge-gnupg]][gnupg]
-
-![YubiKey][badge-yubikey]
+[![YubiKey][badge-yubikey]][yubikey]
 
 [badge-ansible]: https://img.shields.io/static/v1?style=for-the-badge&color=1a1918&logoColor=ffffff&label=&logo=ansible&message=ansible
 [badge-arch-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=1793d1&logoColor=ffffff&label=&logo=Arch+Linux&message=Arch+Linux
@@ -112,3 +111,4 @@
 [ubuntu]: https://ubuntu.com/
 [vim]: https://www.vim.org/
 [vscode]: https://code.visualstudio.com/
+[yubikey]: https://www.yubico.com/products/
