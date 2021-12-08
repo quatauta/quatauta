@@ -21,18 +21,12 @@
 
 ## 💻 Technologies & Tools
 
-<style> .leading8 { line-heigt: 2rem; } </style>
-
-Paragraph
-{: .leading8 }
-
 [![Git][badge-git]][git]
 [![GitLab][badge-gitlab]][gitlab]
 [![GitHub][badge-github]][github]
 [![Vim][badge-vim]][vim]
 [![Visual Studio Code][badge-vscode]][vscode]
 [![IntelliJ IDEA][badge-intellij-idea]][intellij-idea]
-{: .leading8 }
 
 [![Ruby][badge-ruby]][ruby]
 [![Ruby on Rails][badge-rails]][rails]
@@ -41,7 +35,6 @@ Paragraph
 [![Java][badge-java]][java]
 [![JavaScript][badge-javascript]][javascript]
 [![Python][badge-python]][python]
-{: .leading-8 }
 
 [![Linux][badge-linux]][linux]
 [![Arch Linux][badge-arch-linux]][arch-linux]
@@ -52,7 +45,6 @@ Paragraph
 [![Grafana][badge-grafana]][grafana]
 [![PostgreSQL][badge-postgresql]][postgresql]
 [![GnuPG][badge-gnupg]][gnupg]
-{: .leading-8 }
 
 [badge-ansible]: https://img.shields.io/static/v1?style=for-the-badge&color=1a1918&logoColor=ffffff&label=&logo=ansible&message=ansible
 [badge-arch-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=1793d1&logoColor=ffffff&label=&logo=Arch+Linux&message=Arch+Linux
