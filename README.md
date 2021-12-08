@@ -29,7 +29,7 @@
 ![IntelliJ IDEA][badge-intellij-idea]
 
 ![Ruby][badge-ruby]
-![Ruby on Rails][badge-ruby on rails]
+![Ruby on Rails][badge-rails]
 ![Elixir][badge-elixir]
 ![GNU Bash][badge-bash]
 ![Java][badge-java]
@@ -68,7 +68,7 @@
 [badge-quatauta-linkedin]: https://img.shields.io/static/v1?style=for-the-badge&color=0a66c2&logoColor=ffffff&logo=linkedin&message=@daniel-schoemer&label=
 [badge-quatauta-twitter]: https://img.shields.io/static/v1?style=for-the-badge&color=1da1f2&logoColor=ffffff&logo=twitter&message=@quatauta&label=
 [badge-ruby]: https://img.shields.io/static/v1?style=for-the-badge&color=CC342D&logoColor=FFFFFF&logo=Ruby&message=Ruby&label=
-[badge-ruby-on-rails]: https://img.shields.io/static/v1?style=for-the-badge&color=cc0000&logoColor=ffffff&logo=Ruby+on+Rails&message=Ruby+on+Rails&label=
+[badge--rails]: https://img.shields.io/static/v1?style=for-the-badge&color=cc0000&logoColor=ffffff&logo=Ruby+on+Rails&message=Ruby+on+Rails&label=
 [badge-ubuntu]: https://img.shields.io/static/v1?style=for-the-badge&color=e95420&logoColor=ffffff&logo=ubuntu&message=Ubuntu&label=
 [badge-vim]: https://img.shields.io/static/v1?style=for-the-badge&color=11ab00&logoColor=ffffff&logo=vim&message=Vim&label=
 [badge-vscode]: https://img.shields.io/static/v1?style=for-the-badge&color=0078d7&logoColor=ffffff&logo=visual-studio-code&message=Visual+Studio+Code&label=
