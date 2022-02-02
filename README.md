@@ -2,13 +2,13 @@
 
 ## 👉 Site Reliability Engineer / DevOps Engineer excited about Open Source, DevOps, GitLab, Ruby, and Elixir
 
-- 🔭 I’m currently building and maintaining developer/operations tooling for 5700+ Linux servers with [GitLab], [Java], [Ansible], and [Python]
+- 🔭 I’m building and maintaining developer/operations tooling for 5700+ Linux servers with [GitLab], [Java], [Ansible], and [Python]
 
-- 🌱 I’m currently [learning **Elixir** with Exercism.io](https://exercism.org/profiles/quatauta)
+- 🌱 I’m [learning **Elixir** with Exercism.io](https://exercism.org/profiles/quatauta)
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/quatauta](https://gitlab.com/quatauta) and [https://github.com/quatauta](https://github.com/quatauta)
 
-- 📝 I irregularly write articles on [https://quatauta.gitlab.io](https://quatauta.gitlab.io)
+- 📝 I very irregularly write articles on [https://quatauta.gitlab.io](https://quatauta.gitlab.io)
 
 - 💬 Ask me about **Linux**, **Ruby**, **Elixir**, and **Mountainbiking**
 
