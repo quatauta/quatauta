@@ -50,7 +50,6 @@
 
 [![github-languages]][quatauta-github]
 [![github-stats]][quatauta-github]
-[![github-streak]][quatauta-github]
 
 [badge-ansible]: https://img.shields.io/static/v1?style=for-the-badge&color=1a1918&logoColor=ffffff&label=&logo=ansible&message=ansible
 [badge-arch-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=1793d1&logoColor=ffffff&label=&logo=Arch+Linux&message=Arch+Linux
