@@ -25,6 +25,7 @@
 [![GitLab][badge-gitlab]][gitlab]
 [![GitHub][badge-github]][github]
 [![Vim][badge-vim]][vim]
+[![Neovim][badge-neovim]][neovim]
 [![Visual Studio Code][badge-vscode]][vscode]
 [![IntelliJ IDEA][badge-intellij-idea]][intellij-idea]
 
@@ -75,7 +76,8 @@
 [badge-rails]: https://img.shields.io/static/v1?style=for-the-badge&color=cc0000&logoColor=ffffff&label=&logo=Ruby+on+Rails&message=Ruby+on+Rails
 [badge-ruby]: https://img.shields.io/static/v1?style=for-the-badge&color=CC342D&logoColor=FFFFFF&label=&logo=Ruby&message=Ruby
 [badge-ubuntu]: https://img.shields.io/static/v1?style=for-the-badge&color=e95420&logoColor=ffffff&label=&logo=ubuntu&message=Ubuntu
-[badge-vim]: https://img.shields.io/static/v1?style=for-the-badge&color=11ab00&logoColor=ffffff&label=&logo=vim&message=Vim
+[badge-vim]: https://img.shields.io/static/v1?style=for-the-badge&color=019733&logoColor=ffffff&label=&logo=vim&message=Vim
+[badge-neovim]: https://img.shields.io/static/v1?style=for-the-badge&color=57A143&logoColor=ffffff&label=&logo=neovim&message=Neovim
 [badge-vscode]: https://img.shields.io/static/v1?style=for-the-badge&color=0078d7&logoColor=ffffff&label=&logo=visual-studio-code&message=Visual+Studio+Code
 [badge-yubikey]: https://img.shields.io/static/v1?style=for-the-badge&color=98c93c&logoColor=ffffff&label=&message=YubiKey&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGFyaWEtbGFiZWw9Ill1YmljbyIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSIxNSUiIGZpbGw9Im5vbmUiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIGZpbGw9Im5vbmUiIHI9IjIzMyIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjQ1Ii8+PHBhdGggZD0iTTI1NiA0MDdIMTg1bDMzLTc3LTgwLTIwMmg2OWw0OSAxMzIgNDYtMTMyaDY4IiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg==
 
@@ -108,5 +110,6 @@
 [ruby]: https://www.ruby-lang.org/
 [ubuntu]: https://ubuntu.com/
 [vim]: https://www.vim.org/
+[neovim]: https://neovim.io/
 [vscode]: https://code.visualstudio.com/
 [yubikey]: https://www.yubico.com/products/
