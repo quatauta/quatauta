@@ -10,7 +10,7 @@
 
 - 📝 I very irregularly write articles on [https://quatauta.gitlab.io](https://quatauta.gitlab.io)
 
-- 💬 Ask me about **Linux**, **Ruby**, **Elixir**, and **Mountainbiking**, take an appointment with me https://calendly.com/daniel-schoemer-1/30min
+- 💬 Ask me about **Linux**, **Ruby**, **Elixir**, and **Mountainbiking** ([calendly.com/daniel-schoemer-1](https://calendly.com/daniel-schoemer-1/))
 
 ## 🤝 Connect with me
 
