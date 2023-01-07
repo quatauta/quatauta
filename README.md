@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel
 
-## 👉 Site Reliability Engineer / DevOps Engineer excited about Open Source, DevOps, GitLab, Ruby, and Elixir
+## 👉 🌍 Remote Site Reliability Engineer – Excited about Open Source, Linux, DevOps, ♾️🦊 GitLab, Ruby and Elixir
 
 - 🔭 I’m building and maintaining developer/operations tooling for 5700+ Linux servers with [GitLab], [Java], [Ansible], and [Python]
 
