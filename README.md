@@ -6,11 +6,10 @@
 
 - 🌱 I’m [learning **Elixir** with Exercism.io](https://exercism.org/profiles/quatauta)
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/quatauta](https://gitlab.com/quatauta) and [https://github.com/quatauta](https://github.com/quatauta)
+- 👨‍💻 All of my projects are available at [GitLab][quatauta-gitlab]
+and [GitHub][quatauta-github]
 
-- 📝 I very irregularly write articles on [https://quatauta.gitlab.io](https://quatauta.gitlab.io)
-
-- 💬 Ask me about **Linux**, **Ruby**, **Elixir**, and **Mountainbiking** ([cal.com/daniel-schoemer](https://cal.com/daniel-schoemer))
+- 💬 Ask me about **Linux**, **Ruby**, **Elixir**, and **Mountainbiking**, pick your time at ([https://cal.com/daniel-schoemer](https://cal.com/daniel-schoemer))
 
 ## 🤝 Connect with me
 
