@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [GitLab][quatauta-gitlab]
 and [GitHub][quatauta-github]
 
-- 💬 Ask me about **Linux**, **Ruby**, **Elixir**, and **Mountainbiking**, pick your time at ([https://cal.com/daniel-schoemer](https://cal.com/daniel-schoemer))
+- 💬 Ask me about **Linux**, **Ruby**, **Elixir**, and **Mountainbiking**, pick your time at [cal.com/daniel-schoemer](https://cal.com/daniel-schoemer)
 
 ## 🤝 Connect with me
 
