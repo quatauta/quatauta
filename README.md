@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel
 
-## 👉 🌍 Remote Site Reliability Engineer – Excited about Open Source, Linux, DevOps, ♾️🦊 GitLab, Ruby and Elixir
+## 👉 🌍 Remote Site Reliability Engineer – Excited about Open Source, Linux, DevOps, ♾️🦊 GitLab, Ruby and Elixir (CKA; CKS)
 
 - 🔭 I’m building and maintaining developer/operations tooling for 5700+ Linux servers with [GitLab], [Java], [Ansible], and [Python]
 
@@ -28,6 +28,7 @@ and [GitHub][quatauta-github]
 [![Visual Studio Code][badge-vscode]][vscode]
 [![IntelliJ IDEA][badge-intellij-idea]][intellij-idea]
 
+[![Kubernetes][badge-kubernetes]][kubernetes]
 [![Ruby][badge-ruby]][ruby]
 [![Ruby on Rails][badge-rails]][rails]
 [![Elixir][badge-elixir]][elixir]
@@ -65,6 +66,7 @@ and [GitHub][quatauta-github]
 [badge-intellij-idea]: https://img.shields.io/static/v1?style=for-the-badge&color=000000&logoColor=ffffff&label=&logo=intellij-idea&message=IntelliJ+IDEA
 [badge-java]: https://img.shields.io/static/v1?style=for-the-badge&color=007396&logoColor=ffffff&label=&logo=Java&message=Java
 [badge-javascript]: https://img.shields.io/static/v1?style=for-the-badge&color=222222&logoColor=f7df1e&label=&logo=JavaScript&message=JavaScript
+[badge-kubernetes]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
 [badge-linux]: https://img.shields.io/static/v1?style=for-the-badge&color=fcc624&logoColor=000000&label=&logo=linux&message=Linux
 [badge-postgresql]: https://img.shields.io/static/v1?style=for-the-badge&color=4169e1&logoColor=ffffff&label=&logo=PostgreSQL&message=PostgreSQL
 [badge-python]: https://img.shields.io/static/v1?style=for-the-badge&color=3776ab&logoColor=ffffff&label=&logo=Python&message=Python
@@ -98,6 +100,7 @@ and [GitHub][quatauta-github]
 [java]: https://dev.java/
 [java]: https://docs.oracle.com/javase/8/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
+[kubernetes]: https://kubernetes.io/
 [linux]: https://www.linux.org/
 [postgresql]: https://www.postgresql.org/
 [python]: https://www.python.org/
